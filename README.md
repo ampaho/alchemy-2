@@ -2,6 +2,7 @@ This is an attempt to resuscitate the Alchemy2 project.
 
 Alchemy 2.0 includes the following algorithms from the original Alchemy system:
 
+
 	Discriminative weight learning (Voted Perceptron, Conjugate Gradient, and Newton's Method)
 	Generative weight learning
 	Structure learning
@@ -15,6 +16,7 @@ Alchemy 2.0 includes the following algorithms from the original Alchemy system:
 	Support of continuous features and domains
 	Online inference
 	Decision Theory
+
 
 The key new feature of Alchemy 2.0 is lifted inference algorithms (both exact and sampling-based). Specifically, it includes the following inference algorithms:
 
